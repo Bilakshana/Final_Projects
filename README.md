@@ -55,7 +55,7 @@ Scrapes product data like title, price, rating, and availability from Amazon sea
 You can connect with me using this link:
 
 
-[LinkedIn](www.linkedin.com/in/bilakshana-neupane)
+[www.linkedin.com/in/bilakshana-neupane](www.linkedin.com/in/bilakshana-neupane)
 
 
 
